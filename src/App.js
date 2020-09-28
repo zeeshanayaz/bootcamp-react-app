@@ -8,7 +8,7 @@ function App() {
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          Hello to React World
+          Hello to React World 2020
         </p>
         <a
           className="App-link"
